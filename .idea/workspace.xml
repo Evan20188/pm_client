@@ -1,7 +1,141 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a51a2ac-27c8-4f97-b256-2c94d79ce5fb" name="Default Changelist" comment="" />
+    <list default="true" id="8a51a2ac-27c8-4f97-b256-2c94d79ce5fb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/PageOne.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/PageThree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/PageTwo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/index/indexPage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/index/indexPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/login/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/login/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/css/bootstrap-responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/css/docs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/ico/apple-touch-icon-114-precomposed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/ico/apple-touch-icon-144-precomposed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/ico/apple-touch-icon-57-precomposed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/ico/apple-touch-icon-72-precomposed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/ico/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/ico/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/img/bootstrap-docs-readme.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/img/bootstrap-mdo-sfmoma-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/img/bootstrap-mdo-sfmoma-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/img/bootstrap-mdo-sfmoma-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/img/bs-docs-bootstrap-features.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/img/bs-docs-masthead-pattern.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/img/bs-docs-responsive-illustrations.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/img/bs-docs-twitter-github.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/img/example-sites/8020select.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/img/example-sites/adoptahydrant.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/img/example-sites/breakingnews.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/img/example-sites/fleetio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/img/example-sites/gathercontent.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/img/example-sites/jshint.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/img/example-sites/kippt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/img/example-sites/soundready.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/img/examples/bootstrap-example-carousel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/img/examples/bootstrap-example-fluid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/img/examples/bootstrap-example-justified-nav.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/img/examples/bootstrap-example-marketing-narrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/img/examples/bootstrap-example-marketing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/img/examples/bootstrap-example-signin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/img/examples/bootstrap-example-starter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/img/examples/bootstrap-example-sticky-footer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/img/examples/browser-icon-chrome.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/img/examples/browser-icon-firefox.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/img/examples/browser-icon-safari.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/img/examples/slide-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/img/examples/slide-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/img/examples/slide-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/img/glyphicons-halflings-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/img/glyphicons-halflings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/img/grid-baseline-20px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/img/less-logo-large.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/img/responsive-illustrations.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/js/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/js/application.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/js/bootstrap-affix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/js/bootstrap-alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/js/bootstrap-button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/js/bootstrap-carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/js/bootstrap-collapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/js/bootstrap-dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/js/bootstrap-modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/js/bootstrap-popover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/js/bootstrap-scrollspy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/js/bootstrap-tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/js/bootstrap-tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/js/bootstrap-transition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/js/bootstrap-typeahead.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/js/google-code-prettify/prettify.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/js/google-code-prettify/prettify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/js/holder/holder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/js/html5shiv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/assets/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/base-css.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/components.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/customize.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/examples/carousel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/examples/fluid.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/examples/hero.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/examples/justified-nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/examples/marketing-narrow.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/examples/signin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/examples/starter-template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/examples/sticky-footer-navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/examples/sticky-footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/extend.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/getting-started.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/javascript.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/scaffolding.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/templates/layout.mustache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/templates/pages/base-css.mustache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/templates/pages/components.mustache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/templates/pages/customize.mustache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/templates/pages/extend.mustache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/templates/pages/getting-started.mustache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/templates/pages/index.mustache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/templates/pages/javascript.mustache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/docs/templates/pages/scaffolding.mustache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/font/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/font/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/font/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/font/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/font/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/img/glyphicons-halflings-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/img/glyphicons-halflings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/2.3.1/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/bsie/css/bootstrap-ie6.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/bsie/css/bootstrap-ie6.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/bsie/css/bootstrap-ie6.old.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/bsie/img/glyphicons-halflings-white.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/bsie/img/glyphicons-halflings.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/bsie/js/bootstrap-ie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/bsie/js/bootstrap-ie.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/bootstrap/bsie/js/bootstrap-ie.old.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/css/common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/images/close.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/images/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/images/close_hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/images/grid-18px-masked.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/images/input.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/images/openclose.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/images/ruler.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/images/userinfo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static/images/userinfobig.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,5 +163,16 @@
   </component>
   <component name="TaskManager">
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
