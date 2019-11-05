@@ -1,6 +1,6 @@
 import ReactDOM from "react-dom";
 import React from "react";
-import "src/pages/index/indexPage.css"
+import "./indexPage.css"
 
 class IndexPage extends React.Component {
 
